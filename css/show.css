@@ -1,0 +1,51 @@
+.show-part1{
+	height: 45%;
+	width: 100%;
+	margin-top: 6%;
+}
+.show-part2{
+	height: 45%;
+	width: 100%;
+	margin-top: 10%;
+}
+.s1-text{
+	height: 50%;
+	margin-left: 6%;
+}
+.s1-title{
+	height: 29px;
+	font-size: 28px;
+	color: #222222;
+	font-weight: 500;
+}
+.s1-eng{
+	padding: 0;
+	margin-top: 0;
+	font-size: 13px;
+	font-weight: bold;
+	color: #888888;
+}
+.s1-content{
+	margin-top: 5%;
+	margin-right: 10%;
+	font-size: 16px;
+	font-family: "黑体";
+	color: #403E3B;
+	letter-spacing: 4px;
+	line-height: 25px;
+}
+.s1-img{
+	margin-left: 6%;
+}
+.s2-img1{
+	width: 36%;
+	height: 320px;
+}
+.s2-img2{
+	width: 29%;
+	height: 320px;
+}
+.s2-img3{
+	width: 23%;
+	height: 320px;
+}

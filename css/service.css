@@ -1,0 +1,86 @@
+.s-part1{
+	margin-top: 10%;
+	width: 100%;
+	height: 700px;
+}
+
+.s-title{
+	height: 29px;
+	text-align: center;
+	font-size: 28px;
+	color: #222222;
+	font-weight: 500;
+}
+.s-eng{
+	padding: 0;
+	margin-top: 0;
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+	color: #888888;
+}
+.s-content{
+	margin-left: 8%;
+	margin-right: 8%;
+	font-size: 16px;
+	font-family: "黑体";
+	color: #403E3B;
+	letter-spacing: 4px;
+	line-height: 25px;
+}
+.s-img1{
+	margin-top: 3%;
+	width: 60%;
+	height: 79%;
+	margin-left: 19%;
+	opacity: 0.9;
+}
+.s-part2{
+	margin-top: 15%;
+	width: 100%;
+	height: 580px;
+}
+.s-text2{
+	float: left;
+	width: 48%;
+}
+.s-title2{
+	margin-left: 5%;
+	height: 29px;
+	font-size: 28px;
+	color: #222222;
+	font-weight: 450;
+}
+.s-eng2{
+	padding: 0;
+	margin-top: 0;
+	margin-left: 5%;
+	font-size: 13px;
+	font-weight: bold;
+	color: #888888;
+}
+.s-content2{
+	margin-top: 5%;
+	margin-left: 5%;
+	width: 88%;
+	font-size: 16px;
+	font-family: "黑体";
+	color: #403E3B;
+	letter-spacing: 3px;
+	line-height: 26px;
+}
+.s-poem{
+	margin-top: 4%;
+	margin-left: 5%;
+	width: 40%;
+	font-size: 16px;
+	font-family: "黑体";
+	color: #403E3B;
+	letter-spacing: 3px;
+	line-height: 26px;
+}
+.s-img2{
+	float: left;
+	width: 48%;
+	margin-top: 10%;
+}

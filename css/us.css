@@ -1,0 +1,146 @@
+.u-part1{
+	margin-top: 10%;
+	width: 100%;
+	height: 700px;
+}
+
+.u-title{
+	margin: 0;
+	padding: 0;
+	height: 29px;
+	text-align: center;
+	font-size: 28px;
+	color: #222222;
+	font-weight: 500;
+}
+.u-small{
+	padding: 0;
+	margin-top: 0;
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+	color: #888888;
+}
+.u-content{
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 3%;
+	font-size: 16px;
+	font-family: "黑体";
+	color: #403E3B;
+	letter-spacing: 3px;
+	line-height: 23px;
+}
+.u-img1{
+	margin-top: 3%;
+	width: 40%;
+	height: 60%;
+	margin-left: 30%;
+	opacity: 0.9;
+}
+.u-part2{
+	margin-top: 25%;
+	width: 100%;
+	height: 700px;
+}
+.u-title2{
+	margin: 0;
+	padding: 0;
+	height: 29px;
+	margin-left: 8%;
+	font-size: 28px;
+	color: #222222;
+	font-weight: 500;
+}
+.u-small2{
+	margin-left: 8%;
+	font-size: 13px;
+	font-weight: bold;
+	color: #888888;
+}
+.u-img{
+	margin-left: 8%;
+	width: 100%;
+	height: 40%;
+}
+.u-img2{
+	margin-top: 5%;
+	width: 30%;
+	height: 80%;
+	margin-right: 2%;
+}
+.u-part3{
+	margin-top: 10%;
+	width: 100%;
+	height: 398px;
+}
+.u-img3{
+	width: 100%;
+	height: 700px;
+	z-index: -1;	
+}
+.u-black{
+	width: 100%;
+	height: 770px;
+	opacity: 0.6;
+	background-color: #000000;
+	position: absolute;
+	z-index: 1;	
+}
+.background{
+	width: 100%;
+	height: 600px;
+	position: absolute;
+	z-index: -2;
+}
+.order{
+	/*position: absolute;*/
+	z-index: 2;
+	
+}
+.u-left{
+	float: left;
+	margin-left: 7%;
+	margin-top: 8%;
+	color: #C0C0C0;
+	letter-spacing: 2px;
+　　line-height: 18px;
+}
+.u-title3{
+	font-size: 24px;
+	color:#C0C0C0;
+}
+.u-right{
+	width: 40%;
+	height: 100%;
+	background-color: black;
+	opacity: 0.4;
+	float: left;
+	margin-top: 8%;
+	margin-left: 8%;
+}
+.u-right li{
+	list-style-type: none;
+	font-size: 18px;
+	color: #FFFFFF;
+	margin: 5%;
+}
+.list{
+	margin: 5%;
+	width: 400px;
+	height: 30px;
+}
+.list3{
+	margin: 5%;
+	width: 400px;
+	height: 100px;
+}
+.tijiao{
+	background-color: #C7254E;
+	width: 180px;
+	height: 60px;
+	margin-left: 30%;
+	margin-bottom: 5%;
+	font-size: 20px;
+	color: white;
+}

@@ -1,0 +1,48 @@
+.part4{
+	width: 100%;
+	height:860px;
+	margin-top: 2%;
+}
+.p4-left{
+	width: 40%;
+	height: 71.5%;
+	background-color: #C7254E;
+	margin-left: 3%;
+	float: left;
+}
+.p4-content{
+	margin-left: 10%;
+	margin-top: 5%;
+	color: white;
+}
+.p4-p1{
+	font-size: 26px;
+	color: white;
+}
+.p4-p2{
+	width: 80%;
+	font-size: 16px;
+	color: white;
+}
+.p4-img2{
+	margin-bottom: 8%;
+}
+.p4-right{
+	float: left;
+	width: 50%;
+}
+.p4-img3{
+	width: 91%;
+	height: 52%;
+	margin-left: 3%;
+	margin-bottom: 2%;
+}
+.p4-img4{
+	margin-left: 3%;
+	width: 45%;
+	height: 46%;
+}
+.p4-img5{
+	width: 45%;
+	height: 46%;
+}

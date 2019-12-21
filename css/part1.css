@@ -1,0 +1,57 @@
+.part1{
+	width: 100%;
+	height: 673px;
+}
+
+.p1-title{
+	height: 29px;
+	text-align: center;
+	font-size: 28px;
+	color: #222222;
+	font-weight: 500;
+}
+.p1-eng{
+	padding: 0;
+	margin-top: 0;
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+	color: #888888;
+}
+.p1-content{
+	margin-left: 19%;
+	margin-right: 19%;
+	text-align: center;
+	font-size: 18px;
+	font-family: "黑体";
+	color: #101010;
+}
+.p1-img{
+	margin-left: 1%;
+	height: 380px;
+}
+.p1-img1{
+	width: 39.6%;
+	height: 100%;
+	margin-right: 0.2%;
+	margin-top: 0.2%;
+	float: left;
+}
+.p1-img2{
+	width: 34.6%;
+	height: 49.6%;
+	margin: 0.2%;
+	float: left;
+}
+.p1-img3{
+	width: 24.6%;
+	height: 49.6%;
+	float: left;
+	margin: 0.2%;
+}
+.p1-img4,.p1-img5,.p1-img6{
+	width: 19.6%;
+	height: 49.6%;
+	float: left;
+	margin: 0.2%;
+}
